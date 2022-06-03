@@ -30,5 +30,10 @@ p {
   text-indent: 10%;
 }
 .col-lg-4{
-  align-self:center; 
+  align-self:center;
+}
+
+.addBorder {
+  /* Thickness, Style, and Color */
+  border: 2px solid #000000;
 }
