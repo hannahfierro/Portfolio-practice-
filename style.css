@@ -26,3 +26,9 @@ h1 {
   font-family: Garamond, serif;
   font-size: 40px;
 }
+p {
+  text-indent: 10%;
+}
+.col-lg-4{
+  align-self:center; 
+}
